@@ -1,0 +1,2 @@
+https://github.com/shardeum/core.git
+CH: 4d75f797a9d67af7a94dec8860220c4e0f9ade3c
