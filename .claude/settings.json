@@ -1,0 +1,34 @@
+{
+    "permissions": {
+      "deny": [
+        "Read(.env)",
+        "Read(**/.env*)",
+        "Read(**/report.md)",
+        "Read(**/repo.txt)",
+        "Read(**/observations.md)",
+        "Read(**/answers/report.md)",
+        "Read(**/claude-verbose.md)",
+        "Read(**/notes.md/**)",
+        "Read(node_modules/**)",
+        "Read(dist/**)",
+        "Edit(/secrets/**)",
+        "Read(~/.ssh/**)",
+        "Read(**/q-001.md)",
+        "Read(**/q-002.md)",
+        "Read(**/q-003.md)",
+        "Read(**/q-004.md)",
+        "Bash(*report.md*)",
+        "Bash(**/claude-verbose.md)",
+        "Bash(*observations.md*)",
+        "Bash(*notes.md*)",
+        "Bash(*q-001.md*)",
+        "Bash(*q-002.md*)",
+        "Bash(*q-003.md*)",
+        "Bash(*q-004.md*)",
+        "Bash(*.env*)",
+        "Bash(*.ssh*)",
+        "Bash(*repo.txt*)"
+      ]
+    }
+  }
+  
